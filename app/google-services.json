@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "807897654208",
+    "project_id": "itmanagement-2f871",
+    "storage_bucket": "itmanagement-2f871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807897654208:android:1b1188746ecc2a776e9e25",
+        "android_client_info": {
+          "package_name": "com.example.itmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807897654208-jpahod5sb2dnr81kp21o01qf8tve48ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itmanagement",
+            "certificate_hash": "9371b965743483af95f5930acee7d765ff413966"
+          }
+        },
+        {
+          "client_id": "807897654208-4u11k4elkh4099vqa30gjnujqt9mserk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Mt8xYf8zfv6tcJpwmMcJeg2f-naWVE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807897654208-4u11k4elkh4099vqa30gjnujqt9mserk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
