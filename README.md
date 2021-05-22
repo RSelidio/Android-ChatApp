@@ -1,3 +1,4 @@
+
 # Android-ChatApp
 
 # Login
@@ -6,7 +7,7 @@
 ---
 
 # EditProfile
-### ![Edit_Profile](https://user-images.githubusercontent.com/59985283/119207923-52def380-ba5d-11eb-9a29-b6fe8e4c4207.gif)
+### ![Edit_Profile](https://user-images.githubusercontent.com/59985283/119209211-a6a00b80-ba62-11eb-8315-f58e6c35244c.gif)
 
 ---
 
